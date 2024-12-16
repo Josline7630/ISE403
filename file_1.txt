@@ -1,2 +1,3 @@
 Hello Everyone!
 
+The branch merging was sucsessful:)
